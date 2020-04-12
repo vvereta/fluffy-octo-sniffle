@@ -1,0 +1,2 @@
+[run]
+omit = fluffy/__main__.py
